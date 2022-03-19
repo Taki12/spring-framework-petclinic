@@ -511,7 +511,7 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url><![CDATA[jdbc:mysql://changeme_url:3306/petclinic?useSSL=true&requireSSL=false&amp;useUnicode=true&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=CET]]></jdbc.url>
+                <jdbc.url><![CDATA[jdbc:mysql://changeme_url:3306/petclinic?useSSL=true&amp;requireSSL=false&amp;useUnicode=true&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=CET]]></jdbc.url>
                 <jdbc.username>changeme_username</jdbc.username>
                 <jdbc.password>changeme_password</jdbc.password>
             </properties>
